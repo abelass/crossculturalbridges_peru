@@ -1,0 +1,44 @@
+<paquet
+	prefix="crossculturalbridges_peru"
+	categorie="squelette"
+	version="1.0.1"
+	etat="dev"
+	compatibilite="[3.0.17;3.0.*]"
+	logo="prive/themes/spip/images/crossculturalbridges_peru-64.png"
+	documentation=""
+>
+	<!--
+		Paquet genere le 2015-01-24 11:56:49
+		(Vous pouvez bien entendu supprimer ces commentaires) 
+	-->
+
+	<nom>Cross Cultural Bridges Peru</nom>
+
+	<!-- cette balise peut etre presente plusieurs fois s'il y a plusieurs auteurs --> 
+	<auteur lien='http://websimple.be'>Rainer</auteur>
+
+	<licence>GNU/GPL</licence>
+
+	<!--
+		Exemple de commandes
+		* dependances
+		<necessite nom="saisies" compatibilite="[1.21.0;]" />
+		<utilise nom="saisies" compatibilite="[1.21.0;]" />
+		<lib nom="simplehtmldom" lien="http://chemin_vers_archive.zip" />
+		* pipelines
+		<pipeline nom="autoriser" inclure="crossculturalbridges_peru_autorisations.php" />
+		<pipeline nom="insert_head" inclure="crossculturalbridges_peru_pipelines.php" />
+		* declarer un pipeline 
+		<pipeline nom="mon_pipeline" action="" />
+		* parents de menus de SPIP :
+				menu_accueil (A eviter), menu_edition, menu_publication,
+				menu_activite, menu_squelette, menu_administration, menu_configuration 
+		<menu nom="crossculturalbridges_peru" titre="crossculturalbridges_peru:crossculturalbridges_peru_titre" parent="menu_edition"  icone="images/crossculturalbridges_peru-16.png" />
+		* parents d'onglets... configuration, plugins, statistiques, ... 
+		<onglet nom="crossculturalbridges_peru" titre="crossculturalbridges_peru:crossculturalbridges_peru_titre" parent="configuration" icone="images/crossculturalbridges_peru-24.png" />
+	-->
+
+
+
+
+</paquet>
