@@ -37,8 +37,9 @@
 		* parents d'onglets... configuration, plugins, statistiques, ... 
 		<onglet nom="crossculturalbridges_peru" titre="crossculturalbridges_peru:crossculturalbridges_peru_titre" parent="configuration" icone="images/crossculturalbridges_peru-24.png" />
 	-->
+	
+	<necessite nom="wsps_html5" compatibilite="[1.1.9;]" />
+	<necessite nom="wsp_ml" compatibilite="[0.2.6;]" />	
 
-
-
-
+	
 </paquet>
