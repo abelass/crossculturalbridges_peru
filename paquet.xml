@@ -40,6 +40,7 @@
 	
 	<necessite nom="wsps_html5" compatibilite="[1.1.9;]" />
 	<necessite nom="wsp_ml" compatibilite="[0.2.6;]" />	
+	<necessite nom="menuder" compatibilite="[2.2.0;]" />	
 
 	
 </paquet>
