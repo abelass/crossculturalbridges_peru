@@ -18,5 +18,5 @@
 	<necessite nom="wsp_ml" compatibilite="[0.2.6;]" />	
 	<necessite nom="menuder" compatibilite="[2.2.0;]" />	
 
-	
+
 </paquet>
